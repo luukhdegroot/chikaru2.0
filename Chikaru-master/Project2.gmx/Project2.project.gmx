@@ -41,6 +41,7 @@
       <sprite>sprites\spr_mplatform</sprite>
     </sprites>
     <sprite>sprites\spr_lives</sprite>
+    <sprite>sprites\spr_jemoedermikkie</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_start</background>
